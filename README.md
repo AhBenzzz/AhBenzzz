@@ -25,7 +25,6 @@ I'm a tech enthusiast, cyber forensics graduate, and emerging technologies consu
 
 - Java SE Program (Oracle)
 - TryHackMe Security Analyst Level 1
-- <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5377963" style='border:none;'></iframe>
 - ISC2 Certified in Cybersecurity *(ongoing)*
 - CompTIA Security+ *(ongoing)*
 
