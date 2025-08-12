@@ -25,6 +25,7 @@ I'm a tech enthusiast, cyber forensics graduate, and emerging technologies consu
 
 - Java SE Program (Oracle)
 - TryHackMe Security Analyst Level 1
+- <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5377963" style='border:none;'></iframe>
 - ISC2 Certified in Cybersecurity *(ongoing)*
 - CompTIA Security+ *(ongoing)*
 
@@ -32,7 +33,7 @@ I'm a tech enthusiast, cyber forensics graduate, and emerging technologies consu
 
 ## 🏠 Homelab & Side Projects
 
-- **Computer Vision:** Built OpenCV object recognition using laptop webcam.
+- **Computer Vision:** Exposed to an OpenCV project on object recognition using my laptop webcam.
 - **Raspberry Pi:** Created programmable LED demos and API-triggered automations.
 - **File Server:** DIY cloud storage with router + portable HDD (scalable, remote-access).
 - **Crypto Mining:** Set up home-based Ethereum mining rigs with custom Linux OS.
@@ -42,7 +43,7 @@ I'm a tech enthusiast, cyber forensics graduate, and emerging technologies consu
 
 ## 🌱 Currently Learning
 
-- Advanced cybersecurity tactics
+- Advanced cybersecurity tactics and best practices
 - Expanding my homelab and scripting arsenal
 
 ---
