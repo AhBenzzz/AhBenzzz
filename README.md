@@ -11,16 +11,6 @@ I'm a tech enthusiast, cyber forensics graduate, and emerging technologies consu
 
 ---
 
-## 🛠️ Skills
-
-- **Operating Systems:** Windows Server 2008/2012, Windows 7/10/11, Ubuntu
-- **Security:** Kali Linux, Wireshark, Nmap, Metasploit, Autopsy, TryHackMe
-- **Virtualization:** VirtualBox, VMware
-- **Project Tools:** Jira, Microsoft Office
-- **IT/Hardware:** Computer Hardware, MDM, Networking
-
----
-
 ## 🏠 Homelab & Side Projects
 
 - **Computer Vision:** Exposed to an OpenCV project on object recognition using my laptop webcam.
@@ -43,7 +33,6 @@ I'm a tech enthusiast, cyber forensics graduate, and emerging technologies consu
 
 - **Email:** benchew155@live.com.sg
 - **LinkedIn:** [linkedin.com/in/bencyf](https://www.linkedin.com/in/bencyf/)
-- **GitHub:** [AhBenzzz](https://github.com/AhBenzzz)
 
 ---
 
