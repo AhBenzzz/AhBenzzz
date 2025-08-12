@@ -1,4 +1,4 @@
-# 👋 Hello there, I'm Benjamin
+# 👋 Hello there, I'm Benjamin 👋
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/bencyf/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=flat-square)](https://github.com/AhBenzzz)
