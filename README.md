@@ -7,26 +7,17 @@
 
 ## 🚀 About Me
 
-I'm a tech enthusiast, cyber forensics graduate, and emerging technologies consultant with a passion for automation, security, and building things that make life easier. My journey spans the military, cutting-edge banking technology, mixed reality, and hands-on homelab projects. I thrive at the intersection of technology, leadership, and real-world problem solving.
+I'm a tech enthusiast, cyber forensics graduate, and emerging technologies consultant with a passion for automation, security, and building things that make life easier.
 
 ---
 
 ## 🛠️ Skills
 
 - **Operating Systems:** Windows Server 2008/2012, Windows 7/10/11, Ubuntu
-- **Security:** Kali Linux, Wireshark, Nmap, Metasploit, TryHackMe
+- **Security:** Kali Linux, Wireshark, Nmap, Metasploit, Autopsy, TryHackMe
 - **Virtualization:** VirtualBox, VMware
 - **Project Tools:** Jira, Microsoft Office
 - **IT/Hardware:** Computer Hardware, MDM, Networking
-
----
-
-## 📜 Certifications
-
-- Java SE Program (Oracle)
-- TryHackMe Security Analyst Level 1
-- ISC2 Certified in Cybersecurity *(ongoing)*
-- CompTIA Security+ *(ongoing)*
 
 ---
 
@@ -44,7 +35,7 @@ I'm a tech enthusiast, cyber forensics graduate, and emerging technologies consu
 <img src="https://tryhackme-badges.s3.amazonaws.com/SunKyu.png" alt="Your Image Badge" />
 
 - Advanced cybersecurity tactics and best practices
-- Expanding my homelab and scripting arsenal
+- Expanding my homelab and scripting skills
 
 ---
 
