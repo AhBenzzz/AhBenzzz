@@ -24,7 +24,7 @@ I'm a tech enthusiast, cyber forensics graduate, and emerging technologies consu
 ## 🌱 Currently Learning
 <img src="https://tryhackme-badges.s3.amazonaws.com/SunKyu.png" alt="Your Image Badge" />
 
-![tryhackme stats](https://raw.githubusercontent.com/<5377963>/<5377963>/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/<SunKyu>/<SunKyu>/master/assets/thm_propic.png)
 
 - Advanced cybersecurity tactics and best practices
 - Expanding my homelab and scripting skills
