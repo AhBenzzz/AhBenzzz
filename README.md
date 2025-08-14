@@ -22,7 +22,7 @@ I'm a tech enthusiast, cyber forensics graduate, and emerging technologies consu
 ---
 
 ## 🌱 Currently Learning
-![tryhackme stats](https://raw.githubusercontent.com/<SunKyu>/<SunKyu>/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/SunKyu/SunKyu/master/assets/thm_propic.png)
 
 - Advanced cybersecurity tactics and best practices
 - Expanding my homelab and scripting skills
