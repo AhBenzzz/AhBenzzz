@@ -21,7 +21,7 @@ jobs:
     - name: Fetch TryHackMe Badge
       uses: DhanushNehru/tryhackme-badge-action-workflow@v1.0
       with:
-        image_path: 'https://tryhackme-badges.s3.amazonaws.com/SunKyu.png'
+        image_path: './assets/tryhackme-badges.s3.amazonaws.com/SunKyu.png'
         username: 'SunKyu'
         user_id: '5377963'
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
