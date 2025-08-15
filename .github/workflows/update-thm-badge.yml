@@ -1,0 +1,62 @@
+name: Update TryHackMe Badge
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight UTC
+  workflow_dispatch: # Allows manual run
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Fetch latest badge and check hash
+        run: |
+          THM_USERNAME="SunKyu"
+          BADGE_URL="https://tryhackme-badges.s3.amazonaws.com/SunKyu.png"
+
+          # Download badge temporarily
+          curl -s -o badge.png "$BADGE_URL"
+
+          # Compute hash
+          NEW_HASH=$(sha256sum badge.png | awk '{print $1}')
+          OLD_HASH=""
+
+          if [ -f ".thm-badge-hash" ]; then
+            OLD_HASH=$(cat .thm-badge-hash)
+          fi
+
+          if [ "$NEW_HASH" = "$OLD_HASH" ]; then
+            echo "No changes to badge."
+            echo "SKIP_UPDATE=true" >> $GITHUB_ENV
+            exit 0
+          fi
+
+          # Save new hash
+          echo "$NEW_HASH" > .thm-badge-hash
+          echo "SKIP_UPDATE=false" >> $GITHUB_ENV
+
+      - name: Update README with cache-busting badge link
+        if: env.SKIP_UPDATE == 'false'
+        run: |
+          THM_USERNAME="SunKyu"
+          TIMESTAMP=$(date +%s)
+          BADGE_URL="https://tryhackme-badges.s3.amazonaws.com/SunKyu.png?t=${TIMESTAMP}"
+          BADGE_MD="![TryHackMe Badge](${BADGE_URL})"
+
+          awk -v badge="$BADGE_MD" '
+            /<!--START_SECTION:tryhackme-->/ {print; print badge; found=1; next}
+            /<!--END_SECTION:tryhackme-->/ {found=0}
+            !found {print}
+          ' README.md > README.tmp && mv README.tmp README.md
+
+      - name: Commit changes
+        if: env.SKIP_UPDATE == 'false'
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md .thm-badge-hash
+          git commit -m "Update TryHackMe badge in README"
+          git push
