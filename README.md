@@ -23,11 +23,8 @@ I'm a tech enthusiast, cyber forensics graduate, and emerging technologies consu
 
 ## 🌱 Currently Learning
 <!--START_SECTION:tryhackme-->
+
 <!--END_SECTION:tryhackme-->
-
-<!--START_SECTION:hackthebox-->
-<!--END_SECTION:hackthebox-->
-
 
 - Advanced cybersecurity tactics and best practices
 - Expanding my homelab and scripting skills
