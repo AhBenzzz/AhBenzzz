@@ -28,6 +28,7 @@ I'm a tech enthusiast, cyber forensics graduate, and emerging technologies consu
 
 - Advanced cybersecurity tactics and best practices
 - Expanding my homelab and scripting skills
+- Acquiring certifications
 
 ---
 
