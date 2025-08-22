@@ -13,11 +13,11 @@ I'm a tech enthusiast, cyber forensics graduate, and emerging technologies consu
 
 ## 🏠 Homelab & Side Projects
 
-- **Computer Vision:** Exposed to an OpenCV project on object recognition using my laptop webcam.
+- **Computer Vision:** Exposed to an OpenCV project on object recognition using my laptop webcam/mobile phone.
 - **Raspberry Pi:** Created programmable LED demos and API-triggered automations.
-- **File Server:** DIY cloud storage with router + portable HDD (scalable, remote-access).
+- **File Server:** DIY remote cloud storage (scalable, remote-access anywhere).
 - **Crypto Mining:** Set up home-based Ethereum mining rigs with custom Linux OS.
-- **Red Team Practice:** Virtual lab for Kali Linux tool practice, internal network probing with Nmap/Wireshark.
+- **Red Team Practice:** Virtual lab for Kali Linux tool practice, internal network probing with Nmap, Wireshark, BurpSuite, and Metasploit.
 
 ---
 
