@@ -16,7 +16,7 @@ I'm a tech enthusiast, cyber forensics graduate, and emerging technologies consu
 - **Computer Vision:** Exposed to an OpenCV project on object recognition using my laptop webcam/mobile phone.
 - **Raspberry Pi:** Created programmable LED demos and API-triggered automations.
 - **File Server:** Home-based DIY remote cloud storage (scalable, remote-access anywhere).
-- **Crypto Mining:** Setting up and maintaining home-based Ethereum mining rigs with custom Linux OS.
+- **Crypto Mining:** Setting up and maintaining home-based Ethereum mining rigs with a custom Linux OS.
 - **Red Team Practice:** Virtual lab for Kali Linux tool practice, internal network probing with Nmap, Wireshark, BurpSuite, and Metasploit.
 
 ---
@@ -26,9 +26,15 @@ I'm a tech enthusiast, cyber forensics graduate, and emerging technologies consu
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/SunKyu.png?t=1756949174)
 <!--END_SECTION:tryhackme-->
 
-- Advanced cybersecurity tactics and best practices
+- Honing cybersecurity tactics and best practices
 - Expanding my homelab and scripting skills
-- Acquiring certifications
+- Acquiring and attempting certifications and labs
+
+---
+
+## 🔖 Achieved
+https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-WPOA3AMDOK.pdf
+https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-TKZGO70GOD.pdf
 
 ---
 
