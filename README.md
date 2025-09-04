@@ -30,6 +30,7 @@ I'm a tech enthusiast, cyber forensics graduate, and emerging technologies consu
 - Honing cybersecurity tactics and best practices
 - Expanding my homelab and scripting skills
 - Acquiring and attempting certifications and labs
+- Working towards CompTIA Security+ and ISC2 Certified in Cybersecurity
 
 ---
 
