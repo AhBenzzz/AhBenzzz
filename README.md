@@ -37,6 +37,7 @@ I'm a tech enthusiast, cyber forensics graduate, and emerging technologies consu
 ## 🔖 Achieved
 - https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-WPOA3AMDOK.pdf
 - https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-TKZGO70GOD.pdf
+- https://isc2.obrizum.io/org/cc/certificate/395dd343-cc85-4fdd-88ad-cd9b68fb1999
 
 ---
 
