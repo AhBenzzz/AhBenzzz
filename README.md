@@ -2,6 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/bencyf/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=flat-square)](https://github.com/AhBenzzz)
+[![TryHackMe](https://img.shields.io/badge/-GitHub-black?logo=github&style=flat-square)](https://tryhackme.com/p/SunKyu)
 
 ---
 
