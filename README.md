@@ -41,12 +41,5 @@ I'm a tech enthusiast, cyber forensics graduate, and emerging technologies consu
 
 ---
 
-## 📫 Let's Connect
-
-- **Email:** benchew155@live.com.sg
-- **LinkedIn:** [linkedin.com/in/bencyf](https://www.linkedin.com/in/bencyf/)
-
----
-
 > “Strive for progress, not perfection.”  
 > *Open to collaboration, new challenges, and building cool stuff together!*
