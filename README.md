@@ -42,6 +42,7 @@ I'm a tech enthusiast, cyber forensics graduate, and emerging technologies consu
 - https://isc2.obrizum.io/org/cc/certificate/f7d06eb0-8128-4b41-8f63-312e8fb76b7d
 - https://isc2.obrizum.io/org/cc/certificate/911a75f9-0366-4eef-823d-a225c2e0d83d
 - https://isc2.obrizum.io/org/cc/certificate/b50cadaa-f15e-4127-a607-3cdc89b45ec6
+- https://isc2.obrizum.io/org/cc/certificate/30a21cac-4439-40e5-8a83-1edb56e2640e
 
 ---
 
