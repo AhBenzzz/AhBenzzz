@@ -24,7 +24,7 @@ I'm a tech enthusiast, cyber forensics graduate, and emerging technologies consu
 
 ## 🌱 Currently Learning
 <!--START_SECTION:tryhackme-->
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/SunKyu.png?t=1758331523)
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/SunKyu.png?t=1758419018)
 <!--END_SECTION:tryhackme-->
 
 - Honing cybersecurity tactics and best practices
