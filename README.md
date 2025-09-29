@@ -35,8 +35,8 @@ I'm a tech enthusiast, cyber forensics graduate, and emerging technologies consu
 ---
 
 ## 🔖 Achieved
-- <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-WPOA3AMDOK.pdf">TryHackMe CyberSecurity 101</a>
 - <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-TKZGO70GOD.pdf">TryHackMe Pre-Security</a>
+- <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-WPOA3AMDOK.pdf">TryHackMe CyberSecurity 101</a>
 - <a href="https://www.credly.com/badges/79efad39-8ef1-4fca-82d3-7b559be3f42a/linked_in_profile">ISC2 Candidate</a>
 - <a href="https://isc2.obrizum.io/org/cc/certificate/395dd343-cc85-4fdd-88ad-cd9b68fb1999">ISC2 CC Domain 1<a/>
 - <a href="https://isc2.obrizum.io/org/cc/certificate/f7d06eb0-8128-4b41-8f63-312e8fb76b7d">ISC2 CC Domain 2<a/>
